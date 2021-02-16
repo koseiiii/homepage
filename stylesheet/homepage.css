@@ -73,6 +73,8 @@ h1 {
   border: solid 10px #3e6a92;/*線*/
   border-radius: 30px;
   margin-top: 30px;
+  margin-left: 16px;
+  margin-right: 16px;
 }
 
 
@@ -99,6 +101,7 @@ h1 {
 span{
   border-bottom: dotted 5px #07439e;
 }
+
 .my-story-body {
   margin: 30px;
   font-family: cursive;
@@ -125,6 +128,9 @@ span{
 .mybtn-insta {
   background: #9a3b72;
   border-radius: 40px;
+  margin-bottom: 16px;
+  margin-top: 16px;
+  margin-top: 16px;
 }
 
 .mybtn-tw {
